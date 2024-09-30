@@ -23,5 +23,5 @@ def get_env_value(key):
 
 if __name__ == '__main__':
     print(get_app_root())
-    print(get_env_value('ZHIPUAI_API_KEY'))
+    print(get_env_value('caa7270d3f1a2e605253ec93addf9c3a.oHwmAXTxdjPy2Djh'))
     # print(os.environ.get('PY_DEBUG'))
